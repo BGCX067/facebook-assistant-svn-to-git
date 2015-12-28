@@ -1,0 +1,55 @@
+h1 {
+	background-color:#ffffff; 
+	color:#353e90; 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size:24px; 
+	font-weight:bold; 
+	font-style:normal; 
+	margin-top:6px; 
+	margin-bottom:6px; 
+}
+p  {  
+	background-color:#ffffff; 
+	color:#000000; 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+	font-weight:normal; 
+	font-style:normal; 
+	margin-top:0pt; 
+	margin-bottom:12pt 
+}
+td.header {  
+	background-color:#353e90; 
+	color:#ffffff;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size:18px; 
+	font-weight:normal; 
+	font-style:normal; 
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:9px;
+}
+td.fieldname {  
+	color:#000000;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size:13px; 
+	font-weight:normal; 
+	font-style:normal; 
+}
+td{ color:#353e90;
+	border:1px #353e90;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size:14px; 
+	font-weight:bold; 
+	font-style:normal; 
+}
+
+table.form {
+	border-style:dotted; 
+	border-color:#353e90; 
+	border-width:1px; 
+	padding:9px;
+}
+
+
+
